@@ -1,2 +1,2 @@
 # test-goit
-SLAVA UKRAINIll
+SLAVA UKRAINI
